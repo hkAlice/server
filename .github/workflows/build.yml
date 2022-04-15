@@ -213,6 +213,17 @@ jobs:
           exit 1
         fi
         exit 0
+    - name: Encoding Checks
+      if: always()
+      run: |
+        touch encoding_checks.txt
+        python tools/bom_checker.py $changed_file >> encoding_checks.txt || true
+        cat encoding_checks.txt
+        if [ -s encoding_checks.txt ]
+        then
+          exit 1
+        fi
+        exit 0
     - name: Clang Format (C++ files)
       if: 'false' # Don't run until fixed
       run: |
