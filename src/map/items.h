@@ -1,4 +1,4 @@
-﻿#ifndef _ITEMS_H
+#ifndef _ITEMS_H
 #define _ITEMS_H
 
 // Add items as needed, with 14K items in the database this

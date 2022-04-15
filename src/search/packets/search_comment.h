@@ -1,4 +1,4 @@
-﻿
+
 #ifndef _SEARCH_COMMENT_PACKET_H_
 #define _SEARCH_COMMENT_PACKET_H_
 

@@ -1,4 +1,4 @@
-﻿/*
+/*
 ===========================================================================
   Copyright (c) 2020 Topaz Dev Teams
   This program is free software: you can redistribute it and/or modify

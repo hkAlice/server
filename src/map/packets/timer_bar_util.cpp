@@ -1,4 +1,4 @@
-﻿#include "../../common/socket.h"
+#include "../../common/socket.h"
 
 #include "timer_bar_util.h"
 

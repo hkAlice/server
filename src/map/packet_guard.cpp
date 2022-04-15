@@ -1,4 +1,4 @@
-﻿#include "packet_guard.h"
+#include "packet_guard.h"
 
 // #define PACKETGUARD_CAP_ENABLED 1
 

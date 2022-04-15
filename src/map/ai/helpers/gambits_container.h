@@ -1,4 +1,4 @@
-﻿#ifndef _GAMBITSCONTAINER
+#ifndef _GAMBITSCONTAINER
 #define _GAMBITSCONTAINER
 
 #include "../../../common/cbasetypes.h"

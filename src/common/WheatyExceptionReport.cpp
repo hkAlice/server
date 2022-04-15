@@ -1,4 +1,4 @@
-﻿// https://github.com/TrinityCore/TrinityCore/blob/master/src/common/Debugging/WheatyExceptionReport.cpp
+// https://github.com/TrinityCore/TrinityCore/blob/master/src/common/Debugging/WheatyExceptionReport.cpp
 //==========================================
 // Matt Pietrek
 // MSDN Magazine, 2002

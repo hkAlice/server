@@ -1,4 +1,4 @@
-﻿#include "trustutils.h"
+#include "trustutils.h"
 
 #include "../../common/timer.h"
 #include "../../common/utils.h"

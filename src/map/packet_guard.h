@@ -1,4 +1,4 @@
-﻿#ifndef _PACKETGUARD_H
+#ifndef _PACKETGUARD_H
 #define _PACKETGUARD_H
 
 #include "../common/cbasetypes.h"

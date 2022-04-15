@@ -1,4 +1,4 @@
-﻿#include "gambits_container.h"
+#include "gambits_container.h"
 
 #include "../../ability.h"
 #include "../../ai/states/ability_state.h"

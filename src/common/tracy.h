@@ -1,4 +1,4 @@
-﻿#ifndef _TRACY_H
+#ifndef _TRACY_H
 #define _TRACY_H
 
 #ifdef TRACY_ENABLE

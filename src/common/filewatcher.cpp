@@ -1,4 +1,4 @@
-﻿#include "filewatcher.h"
+#include "filewatcher.h"
 
 #include <filesystem>
 #include <functional>

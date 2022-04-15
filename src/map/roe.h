@@ -1,4 +1,4 @@
-﻿/*
+/*
  * roe.h
  *      Author: Kreidos | github.com/kreidos
  *

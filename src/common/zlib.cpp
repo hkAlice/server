@@ -1,4 +1,4 @@
-﻿#include "../common/zlib.h"
+#include "../common/zlib.h"
 #include "../common/logging.h"
 #include <cassert>
 #include <cstring>

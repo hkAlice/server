@@ -1,4 +1,4 @@
-﻿#ifndef _CTIMERBARUTILPACKET_H
+#ifndef _CTIMERBARUTILPACKET_H
 #define _CTIMERBARUTILPACKET_H
 
 #include "../../common/cbasetypes.h"
