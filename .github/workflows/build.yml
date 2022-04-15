@@ -217,7 +217,9 @@ jobs:
       if: always()
       run: |
         touch encoding_checks.txt
-        python tools/bom_checker.py $changed_file >> encoding_checks.txt || true
+        for changed_file in ${{ steps.changed-files.outputs.all }}; do
+          python tools/bom_checker.py $changed_file >> encoding_checks.txt || true
+        done
         cat encoding_checks.txt
         if [ -s encoding_checks.txt ]
         then
